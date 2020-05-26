@@ -21,12 +21,12 @@ new Vue({
 		layers: [
 			{
 				id: 0,
-				name: 'Restaurants',
+				name: 'Check to see the restaurants',
 				active: false,
 				features: [
 					{
 						id: 0,
-						name: "Peido's",
+						name: "Pei-O's",
 						type: 'marker',
 						coords: [38.6109607, -90.2050322],
 					},
@@ -88,7 +88,7 @@ new Vue({
 			},
 			{
 				id: 1,
-				name: 'City/County boundaries',
+				name: 'Check to see city/county boundaries',
 				active: false,
 				features: [
 					{
